@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/macbook-with-books.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AirBnB clone 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a clone of the popular AirBnB website. This was one of the projects under ALX software Engineering program.",
+    url: "https://github.com/jessNzembi/AirBnB_clone_v4",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Simple Shell",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Collaborated to create a console application which is a simple clone of the bash shell. This was also part of the ALX projects built using C.",
+    url: "https://github.com/VGichuki/simple_shell",
   },
   {
-    title: "My Resume Site",
+    title: "Academia",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaborated to create a mobile application to improve the academic experience of Daystar University students.",
+    url: "https://github.com/IamMuuo/academia",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Church Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a web application for a church using html and CSS for frontend and django for backend.",
+    url: "https://github.com/jessNzembi/citamProject",
   },
 ];
 
