@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/IamMuuo/academia",
   },
   {
-    title: "Church Website",
+    title: "Hirehub",
     description:
-      "Created a web application for a church using html and CSS for frontend and django for backend.",
-    url: "https://github.com/jessNzembi/citamProject",
+      "Created a mobile application for posting and searching for jobs using flutter for front-end and django for back-end.",
+    url: "https://github.com/jessNzembi/hirehub",
   },
 ];
 
