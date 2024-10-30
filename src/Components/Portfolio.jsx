@@ -26,33 +26,37 @@ const imageAltText = "desktop with books and laptop";
 /**
  * Project list
  *
+import image from "../images/workplace.jpg";
+
+const imageAltText = "Workplace containing a keyboard , headphones, pen, notebook and mouse";
+
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
   {
-    title: "AirBnB clone 🎉",
+    title: "Academia",
     description:
-      "Collaboration to create a clone of the popular AirBnB website. This was one of the projects under ALX software Engineering program.",
-    url: "https://github.com/jessNzembi/AirBnB_clone_v4",
+      "Developed mobile application that improves the academic experience of Daystar University students. The app has features such as viewing class and exam timetable, fee statement and calculating GPA.",
+    url: "https://github.com/IamMuuo/academia",
+  },
+  {
+    title: "Orientation App",
+    description:
+      "Developed a mobile application to automate activities such as grouping freshmen and efficient communication during Daystar University's orientation.",
+    url: "https://github.com/dita-daystaruni/orientation_ap",
+  },
+  {
+    title: "Bike Sharing Demand",
+    description:
+      "Trained a Machine Learning model using Autogluon to predict bike sharing demands. This project was under Udacity's Introduction to Machine Learning course.",
+    url: "https://github.com/jessNzembi/cd0385-project-starter/blob/main/project/README.md",
   },
   {
     title: "Simple Shell",
     description:
-      "Collaborated to create a console application which is a simple clone of the bash shell. This was also part of the ALX projects built using C.",
+      "A console application written in C . It is designed to be a simple clone of a unix system's shell with some minor differences.",
     url: "https://github.com/VGichuki/simple_shell",
-  },
-  {
-    title: "Academia",
-    description:
-      "Collaborated to create a mobile application to improve the academic experience of Daystar University students.",
-    url: "https://github.com/IamMuuo/academia",
-  },
-  {
-    title: "Hirehub",
-    description:
-      "Created a mobile application for posting and searching for jobs using flutter for front-end and django for back-end.",
-    url: "https://github.com/jessNzembi/hirehub",
   },
 ];
 
